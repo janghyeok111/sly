@@ -1,0 +1,1 @@
+export default function Home() { return <div>SLY AI 기반 시스템 메인</div>; }
